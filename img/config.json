@@ -1,0 +1,18 @@
+{
+  "picBed": {
+    "current": "github",
+    "uploader": "github",
+    "smms": {
+      "token": ""
+    },
+    "github": {
+      "branch": "master",
+      "customUrl": "https://raw.githubusercontent.com/dryadd44651/cloudimg/master",
+      "path": "img/",
+      "repo": "dryadd44651/cloudimg",
+      "token": "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"
+    }
+  },
+  "picgoPlugins": {},
+
+}
